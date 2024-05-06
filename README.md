@@ -1,1 +1,1 @@
-# EQ2300-Digital-Signal-Processing-PROJECT-LAB
+# Digital-Signal-Processing-PROJECT-LAB
