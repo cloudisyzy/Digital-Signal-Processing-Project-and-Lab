@@ -1,8 +1,6 @@
 /*
 
-    EQ2300 Digital Signal Processing Lab, 2017
-
-    The code implements the Arduino Equalizer using overlap save
+    The code implements the Arduino Equalizer (Filter) using overlap save (Frequency Domain)
 
 */
 
