@@ -1,8 +1,6 @@
 /*
 
-    EQ2300 Digital Signal Processing Lab, 2017
-
-    The code implements the Arduino Equalizer using time domain processing
+    The code implements the Arduino Equalizer (Filter) using time domain processing
 
 */
 
